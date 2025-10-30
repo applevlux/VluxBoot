@@ -1,0 +1,5 @@
+user-agent: *
+Allow: /
+Allow: /ru/
+Allow: /ee/
+Disallow: /src/
