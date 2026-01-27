@@ -1,4 +1,17 @@
 /* Colors and thats abt it lol */
+
+@import url('https://fonts.googleapis.com/css2?family=LINE+Seed+JP:wght@400;700&display=swap');
+
+
 body{
 --accent: #5959ff;
+font-family: "LINE Seed JP", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+b{
+    font-family: "LINE Seed JP", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
