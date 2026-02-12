@@ -1,3 +1,4 @@
 user-agent: *
 Allow: /
 Disallow: /src/
+Disallow: /contact
