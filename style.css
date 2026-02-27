@@ -6,6 +6,9 @@ body{
 --accent: #5959ff;
 }
 
+.row {
+    --bs-gutter-x: 0rem;
+}
 
 .funcrumple{
     width: 48rem;
