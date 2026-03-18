@@ -1,4 +1,7 @@
 user-agent: *
 Allow: /
+Allow: /vrchat/
+Allow: /drinks/
 Disallow: /src/
 Disallow: /contact
+Disallow: /socials
