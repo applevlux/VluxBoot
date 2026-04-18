@@ -12,7 +12,7 @@ async function loadJSON(a) {
         const output = document.getElementById(tierdiv);
 
        if(tinytext != null){tinytext.remove();}
-        output.innerHTML += '<div class="justify-content-center d-md-flex flex-md-row mx-lg-auto mx-1 mb-3"><div class="text-center text-lg-start"><div><h2>' + item.name + '</h2> </div><img src="/src/drink/src/' + item.img + '" class="rounded-1" style="max-width: 150px; max-height: 150px;"></div><br><div class="gap-0 px-3 pt-md-5 text-wrap funcrumple text-center"><p>'+ item.desc +'</p><a href="'+ item.link +'" style="color:var(--accent);">'+ item.linkmsg +'</a></div></div>';
+        output.innerHTML += '<div><button class="" type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="-70,"><div style="position: relative; width: 100%; max-width: 14rem;"><img src="/src/icons/blank.webp" style="width: 100%; height: auto; filter: blur(0.2rem) brightness(80%);"><div class="position-absolute start-50 translate-middle" style="top: 50%;"><img src="/src/drink/src/' + item.img + '" style="max-width: 13rem;"></div></div></button><ul class="dropdown-menu px-3" style="max-width: 24rem;"><li><h4 class="dropdown-header">' + item.name + '</h4></li><p>' + item.desc + '</p></ul></div>';
       });
   }
 catch (err) {
@@ -47,18 +47,22 @@ switch (getPath())  {
 
 
 
-/*
-        <div class="justify-content-center d-md-flex flex-md-row mx-lg-auto mx-5 mb-3">
-                <div class="text-center text-lg-start">
-                   <div><h2>${name}</h2> <small class="text-secondary">${date}</small></div>
-                <img src="/src/drink/src/${img}" class="rounded-1" style="max-width: 150px; max-height: 150px;">
-                </div>
-  <br>
-            <div class="gap-0 px-3 pt-md-5 text-wrap funcrumple text-center">
-                <p>${desc}</p>
-                <a href="${link}" style="color:var(--accent);">${linkmsg}</a>
-            </div>
-      </div>
+/* 
+<div>
+<button class="" type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="-70,">
+    <div style="position: relative; width: 100%; max-width: 14rem;">
+        <img src="/src/icons/blank.webp" style="width: 100%; height: auto; filter: blur(0.2rem) brightness(80%);">
+  <div class="position-absolute start-50 translate-middle" style="top: 50%;">
+        <img src="/src/drink/src/MWhite.webp" style="max-width: 13rem;">
+  </div>
+    </div>
+</button>
+<ul class="dropdown-menu px-3" style="max-width: 24rem;">
+    <li><h4 class="dropdown-header"></h4></li>
+<p></p>
+  </ul>
+</div>
+
 */
 
 // <small class="text-secondary">nothing here yet</small>
