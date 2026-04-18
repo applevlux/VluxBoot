@@ -1,4 +1,10 @@
-document.addEventListener('DOMContentLoaded', function() {
+async function loadComponent(id, file) {
+    const res = await fetch(file);
+    const html = await res.text();
+    document.getElementById(id).innerHTML = html;
+  }
+
+async function copy88x31() {
   const btn = document.getElementById('btn');
   
   if (btn) {
@@ -15,4 +21,16 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
   }
+
+}
+
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  
+  loadComponent('navbar', '/src/components/navbar.html');
+  loadComponent('footer', '/src/components/footer.html');
+  
+  copy88x31();
 });

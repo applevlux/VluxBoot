@@ -1,7 +1,22 @@
 [
 {
+    "tier": 1,
+    "name": "Monster: Lando Norris",
+    "img": "MStrawberry.webp",
+    "desc": "This is what the OG black monster shouldve been imo, its not <i>uniquely</i> full of taste but it is more enjoyable and id buy this over the OG monster any day of the week (oh and also the textured can is neat touch even if it requires more work to make)",
+    "link": "https://www.monsterenergy.com/en-gb/energy-drinks/monster-energy/lando-norris-zero-sugar/",
+    "linkmsg": "Official Monster Webpage"
+},
+{
+    "tier": 1,
+    "name": "Monster: Strawberry Dreams",
+    "img": "MStrawberry.webp",
+    "desc": "Ah yes one of the many pink monsters out there, tbh one of my more favorite drinks out there surprisingly tastes like the color (colour for the brits) but that might just be strawberries tasting pink in general ig",
+    "link": "https://www.monsterenergy.com/en-gb/energy-drinks/monster-ultra/zero-sugar-ultra-strawberry-dreams/",
+    "linkmsg": "Official Monster Webpage"
+},
+{
     "tier": 2,
-    "date": "19/03/26",
     "name": "Monster: Golden Pineapple",
     "img": "MGPineapple.webp",
     "desc": "Also known as Ultra gold (for some reason?), idk branding is weird. Doesnt rlly hit as hard and the pineapple taste only comes through when you drank atleast 25% of the drink so idk seems lame tbh. prob wont buy this",
@@ -10,7 +25,6 @@
 },
 {
     "tier": 0,
-    "date": "18/03/26",
     "name": "SaaremaaVesi: Lemon Carbonated",
     "img": "SaaremaaVesi.webp",
     "desc": "Saaremaa vesi palun sponseerige mind <3",
@@ -19,7 +33,6 @@
 },    
 {
     "tier": 0,
-    "date": "18/03/26",
     "name": "Monster: Rio Punch",
     "img": "MRioPunch.webp",
     "desc": "This makes me feel a certain way like sldjkfhsjkdfghdfs. This is one of my most favorite and probably one of the best flavors its so goooood. It kinda tastes like tutti frutti and some other flavor that i dont know but makes my tongue and brain go oooooooooooooooooooooooooooooooh.",
@@ -28,7 +41,6 @@
 },
 {
     "tier": 1,
-    "date": "17/03/26",
     "name": "Monster: Bad Apple",
     "img": "MBadApple.webp",
     "desc": "Honestly idc what anni fucking says this shit rocks. Tastes very similarly to apple juice (its in the name) but carbonated and caffeine (my beloved). If u like apples then this is a solid pick.",

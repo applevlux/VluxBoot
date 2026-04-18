@@ -12,7 +12,7 @@ async function loadJSON(a) {
         const output = document.getElementById(tierdiv);
 
        if(tinytext != null){tinytext.remove();}
-        output.innerHTML += '<div class="justify-content-center d-md-flex flex-md-row mx-lg-auto mx-1 mb-3"><div class="text-center text-lg-start"><div><h2>' + item.name + '</h2> <small class="text-secondary">' + item.date + '</small></div><img src="/src/drink/src/' + item.img + '" class="rounded-1" style="max-width: 150px; max-height: 150px;"></div><br><div class="gap-0 px-3 pt-md-5 text-wrap funcrumple text-center"><p>'+ item.desc +'</p><a href="'+ item.link +'" style="color:var(--accent);">'+ item.linkmsg +'</a></div></div>';
+        output.innerHTML += '<div class="justify-content-center d-md-flex flex-md-row mx-lg-auto mx-1 mb-3"><div class="text-center text-lg-start"><div><h2>' + item.name + '</h2> </div><img src="/src/drink/src/' + item.img + '" class="rounded-1" style="max-width: 150px; max-height: 150px;"></div><br><div class="gap-0 px-3 pt-md-5 text-wrap funcrumple text-center"><p>'+ item.desc +'</p><a href="'+ item.link +'" style="color:var(--accent);">'+ item.linkmsg +'</a></div></div>';
       });
   }
 catch (err) {
