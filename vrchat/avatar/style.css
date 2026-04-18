@@ -1,0 +1,21 @@
+/* Colors and thats abt it lol */
+
+
+
+body{
+--accent: #5959ff;
+}
+
+.row {
+    --bs-gutter-x: 0rem;
+}
+
+.funcrumple{
+    width: 48rem;
+}
+
+@media (max-width: 991.98px) { 
+.funcrumple{
+    width: auto;
+}
+ }
