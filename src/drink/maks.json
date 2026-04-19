@@ -1,5 +1,11 @@
 [
 {
+    "tier": 2,
+    "name": "Monster",
+    "img": "MOG.webp",
+    "desc": "Ah yes the original battery acid energy drink, surprisingly after a while not a bad taste but i wish there was more to this."
+},
+{
     "tier": 4,
     "name": "Monster: Super Dry",
     "img": "MSuperDry.webp",
@@ -9,49 +15,49 @@
     "tier": 2,
     "name": "Monster: VR|46",
     "img": "MVR46.webp",
-    "desc": "Its kinda just there? im not a huge fan of the flavor but i wouldnt be mad that someone got me this. idk not my favorite"
+    "desc": "Its kinda just there? im not a huge fan of the flavor but i wouldnt be mad that someone got me this. idk not my favorite."
 },
 {
     "tier": 3,
     "name": "Monster: Pipeline Punch",
     "img": "MPipeline.webp",
-    "desc": "Its kinda ass, surprisingly worse than the strawberry monster but meh luckily i see it less in my stores so ig most ppl agree with me that this is a bit on the shit side"
+    "desc": "Its kinda ass, surprisingly worse than the strawberry monster but meh luckily i see it less in my stores so ig most ppl agree with me that this is a bit on the shit side."
 },
 {
     "tier": 2,
     "name": "White Monster",
     "img": "MWhite.webp",
-    "desc": "The femboy's most beloved drink. tbh kinda ass but its not exactly aiming for having a taste (or a lighter citrucy flavor depending on how u view it) so its nice to mix with other flavory drinks"
+    "desc": "The femboy's most beloved drink. tbh kinda ass but its not exactly aiming for having a taste (or a lighter citrucy flavor depending on how u view it) so its nice to mix with other flavory drinks."
 },
 {
     "tier": 1,
     "name": "Monster: Khaotic",
     "img": "MKhaotic.webp",
-    "desc": "Good alternative when i kinda dont want a mango loco tbh. Very creative taste and not much else i can say here lol"
+    "desc": "Good alternative when i kinda dont want a mango loco tbh. Very creative taste and not much else i can say here lol."
 },
 {
     "tier": 0,
     "name": "Monster: Mango loco",
     "img": "MMango.webp",
-    "desc": "Honestly my go to if i can get it. Great way to start my day and not complain abt shit with this monster being <i>The Shit™</i>"
+    "desc": "Honestly my go to if i can get it. Great way to start my day and not complain abt shit with this monster being <i>The Shit™</i>."
 },
 {
     "tier": 1,
     "name": "Monster: Lando Norris",
     "img": "MLando.webp",
-    "desc": "This is what the OG black monster shouldve been imo, its not <i>uniquely</i> full of taste but it is more enjoyable and id buy this over the OG monster any day of the week (oh and also the textured can is neat touch even if it requires more work to make)"
+    "desc": "This is what the OG black monster shouldve been imo, its not <i>uniquely</i> full of taste but it is more enjoyable and id buy this over the OG monster any day of the week. (oh and also the textured can is neat touch even if it requires more work to make)"
 },
 {
     "tier": 1,
     "name": "Monster: Strawberry Dreams",
     "img": "MStrawberry.webp",
-    "desc": "Ah yes one of the many pink monsters out there, tbh one of my more favorite drinks out there surprisingly tastes like the color (colour for the brits) but that might just be strawberries tasting pink in general ig"
+    "desc": "Ah yes one of the many pink monsters out there, tbh one of my more favorite drinks out there surprisingly tastes like the color (colour for the brits) but that might just be strawberries tasting pink in general ig."
 },
 {
     "tier": 2,
     "name": "Monster: Golden Pineapple",
     "img": "MGPineapple.webp",
-    "desc": "Also known as Ultra gold (for some reason?), idk branding is weird. Doesnt rlly hit as hard and the pineapple taste only comes through when you drank atleast 25% of the drink so idk seems lame tbh. prob wont buy this"
+    "desc": "Also known as Ultra gold (for some reason?), idk branding is weird. Doesnt rlly hit as hard and the pineapple taste only comes through when you drank atleast 25% of the drink so idk seems lame tbh. prob wont buy this."
 },
 {
     "tier": 0,
