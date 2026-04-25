@@ -1,5 +1,23 @@
 [
 {
+    "tier": 1,
+    "name": "Monster: Ultra Rosa",
+    "img": "MRosa.webp",
+    "desc": "Eh, not so bad. Tastes like an saturated version of strawberry dreams and i can rock with this tbh."
+},
+{
+    "tier": 0,
+    "name": "Monster: Pacific Punch",
+    "img": "MPacific.webp",
+    "desc": "This is the BOMBOCLAT type shit i fucking needed. Really good taste and hits u instantly, amazing way to start the day."
+},
+{
+    "tier": 1,
+    "name": "Monster: Aussie Lemonade",
+    "img": "MAussie.webp",
+    "desc": "It sure tastes like lemonade! Not really exactly like lemonade but close enough for me not to care as much about otherwise its pretty good."
+},
+{
     "tier": 2,
     "name": "Monster",
     "img": "MOG.webp",
