@@ -1,6 +1,30 @@
 [
 {
     "tier": 1,
+    "name": "Monster: Full Throttle",
+    "img": "MFT.webp",
+    "desc": "I wonder if monster goes and talks with the people who theyre designing their career after but this really makes me wanna get behind the wheel and drive a marathon or cross country (or multiple)"
+},
+{
+    "tier": 2,
+    "name": "Cult: Anime Ice",
+    "img": "CAnime.webp",
+    "desc": "I expected more from this but it is <i>really</i> underwhelming"
+},
+{
+    "tier": 0,
+    "name": "Cult: Bubble Gum",
+    "img": "CBBG.webp",
+    "desc": "Cult palun sponseerige mind ka, but otherwise pretty neat drink, it does taste like whjat it says and is baller, (and always cheap which is good)"
+},
+{
+    "tier": 1,
+    "name": "Cult: Juicy Ocean",
+    "img": "CJuicyO.webp",
+    "desc": "Cult Bubble Gum but kinda different? Cant tell half the time but still pretty good"
+},
+{
+    "tier": 1,
     "name": "Monster: Ultra Rosa",
     "img": "MRosa.webp",
     "desc": "Eh, not so bad. Tastes like an saturated version of strawberry dreams and i can rock with this tbh."
