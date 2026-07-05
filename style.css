@@ -18,8 +18,15 @@ body{
 .funcrumple{
     width: auto;
 }
+
  }
 
+@media (max-width: 764px) {
+    .hidemobile{
+    visibility: hidden;
+    height: 1px;
+}
+} 
 @media (min-height: 1200px) {
 .footer {
     position: fixed;

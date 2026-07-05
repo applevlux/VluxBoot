@@ -19,3 +19,10 @@ body{
     width: auto;
 }
  }
+
+ @media (max-width: 764px) {
+    .hidemobile{
+    visibility: hidden;
+    height: 1px;
+}
+ }
