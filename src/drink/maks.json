@@ -1,5 +1,23 @@
 [
 {
+    "tier": 1,
+    "name": "Battery: Remix",
+    "img": "BRemix.webp",
+    "desc": "Really damn good choice for starting smth out, strawberry mixes so well with lime its sooooo close to S tier but idk smth puts it off to A might change it if i drink it more"
+},
+{
+    "tier": 0,
+    "name": "Battery: Ruby",
+    "img": "BRuby.webp",
+    "desc": "The pussy pink energy drink. <i>no im not elaborating on that</i>"
+},
+{
+    "tier": 1,
+    "name": "Battery: Blue Raspberry",
+    "img": "BBlue.webp",
+    "desc": "&quotITS BLUE WTF&quot. no joke the actual color of it is blue and i got really surprised lol. otherwise not bad pretty kewl not the best but its up there"
+},
+{
     "tier": 2,
     "name": "Monster: Ultra Fantasy Ruby Red",
     "img": "MRubyRed.webp",
