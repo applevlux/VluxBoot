@@ -1,5 +1,11 @@
 [
 {
+    "tier": 2,
+    "name": "REV UP Classic",
+    "img": "RevUP.webp",
+    "desc": "so this is how drinking out of a gas canister feels like, huh. otherwise 320mg of caffeine go brrrrrrr"
+},
+{
     "tier": 1,
     "name": "Battery: Remix",
     "img": "BRemix.webp",
