@@ -1,5 +1,29 @@
 [
 {
+    "tier": 1,
+    "name": "Monster: Blue Flash",
+    "img": "MBlueFlash.webp",
+    "desc": "IDK, no particular taste to point out, not surprised its not available in estonia sooooo ig rip 2 eur i spent for this from an import shop"
+},
+{
+    "tier": 3,
+    "name": "Cult: OG",
+    "img": "COG.webp",
+    "desc": "Pretty meh, just your average battery acid flavored bullshit"
+},
+{
+    "tier": 0,
+    "name": "Monster: Peach Keen",
+    "img": "MPeach.webp",
+    "desc": "I didnt know i liked peach so much wut de fuuuuk? Eitherway rlly good will recommend"
+},
+{
+    "tier": 1,
+    "name": "Battery: Fresh",
+    "img": "BFresh.webp",
+    "desc": "Pretty good flavor tbh, not much else to say"
+},
+{
     "tier": 2,
     "name": "REV UP Classic",
     "img": "RevUP.webp",
